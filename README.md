@@ -1,2 +1,2 @@
-# daniela-bd-Hw2
+# Hw2
 html css
